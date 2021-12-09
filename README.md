@@ -1,4 +1,4 @@
-# AngularTourOfHeroes
+# Angular Tour Of Heroes
 
 This project was created to learn and understand Angular Framework as well as a technical challenge from Winning Group.
 
