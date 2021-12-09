@@ -8,7 +8,7 @@ by [Mauritz Erick](http://linkekdin.com/mauritz/erick)
 
 I love working with Javascript and the Web. From DOM Manipulation, CSS stylings, as well as understanding the implementation of CRUD system of the web. The best way to master things is to learn it yourself and get your hands dirty. That being said, I would like to thank Rob and Liz to give me a chance to learn Angular by giving me this tutorial :) 
 
-## Live Demos
+## Live Demo
 
 Github [Page](https://mauritzerick.github.io/angular-tour-of-heroes/dashboard)
 
