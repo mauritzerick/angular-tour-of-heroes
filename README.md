@@ -1,27 +1,45 @@
 # AngularTourOfHeroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
+This project was created to learn and understand Angular Framework as well as a technical challenge from Winning Group.
 
-## Development server
+by [Mauritz Erick](http://linkekdin.com/mauritz/erick)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Introduction
 
-## Code scaffolding
+I love working with Javascript and the Web. From DOM Manipulation, CSS stylings, as well as understanding the implementation of CRUD system of the web. The best way to master things is to learn it yourself and get your hands dirty. That being said, I would like to thank Rob and Liz to give me a chance to learn Angular by giving me this tutorial :) 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Live Demos
 
-## Build
+Github [Page](https://mauritzerick.github.io/angular-tour-of-heroes/dashboard)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## What's inside
 
-## Running unit tests
+The Tour of Heroes tutorial helps me to understand how to build a web app with Angular Framework and develop an application using Angular CLI tool, and provides brief introduction of the CRUD system.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+This tutorial helps me to do the following:
 
-## Running end-to-end tests
+1. Use built-in Angular directives to show and hide elements and display lists of items
+2. Create Angular components and show the heroes/values using an array
+3. Data binding
+4. Format a data with wipes function
+5. Implementing routes to navigate within different components
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Creating a new workspace
 
-## Further help
+```
+ng new angular-tour-of-heroes
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Run the server locally
+
+```
+ng serve --open
+```
+
+## Creating neccessary components
+
+```
+ng generate components heroes
+```
+
+
