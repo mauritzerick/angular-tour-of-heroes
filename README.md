@@ -39,7 +39,7 @@ ng serve --open
 ## Creating neccessary components
 
 ```
-ng generate components heroes
+ng generate components [componentName]
 ```
 
 
